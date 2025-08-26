@@ -23,6 +23,10 @@ eks-cluster-observability-st/
 └── versions.tf
 ```
 
+## Design
+![Modelo da arquitetura](assets/projeto-design-st.png)
+
+
 ## Recursos Provisionados
 
 *   **Rede (VPC):** Uma VPC completa com sub-redes públicas e privadas, NAT Gateways e Internet Gateway.
